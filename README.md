@@ -5,7 +5,7 @@ data structures implemented in C
 MIGW compiler or anyother C compiler.
 
 # How to Run
-Go inside each datastructure folder.
-Run "make" command in compiler.
-Execute "myApp" executable.
-To Clean project run "make clean".
+1) Go inside each datastructure folder.
+2) Run "make" command in compiler.
+3) Execute "myApp" executable.
+4) To Clean project run "make clean".
